@@ -1,0 +1,1 @@
+RECYCLINK is a web-based recycling and reuse platform built with React.js and Firebase that connects users with scrap buyers and enables buying and selling of reusable items to promote sustainable waste management.
